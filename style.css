@@ -1,0 +1,59 @@
+p{
+    width: 170px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color: aquamarine;
+    margin-top: 200px;
+    text-align: center;
+    font-size: 75px;
+    font-style: italic;
+  }
+
+#low {
+    width: 18%;
+    float:left
+}
+#middle {
+    width: 18%;
+    float:left;
+}
+#high {
+    width: 18%;
+    float:left
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-style: italic;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+    
+
+h2{
+    border: 15px solid green;
+    padding: 5px;
+    margin: 20px;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    font-size: 50px;
+
+    
+}
+
+
+
+
+     
+
+
+
+
+    
+   
+   
